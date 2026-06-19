@@ -3,5 +3,6 @@ Problem Statement: Take two ferromagnetic rings of different radii and tie them 
 https://drive.google.com/file/d/1hyvaKpPFhtNlJ_Grksj_DE4sJMujqyFy/view?usp=share_link
 
 
+"Theory" lists our analysis of the system. Essentially we write down a Lagrangian of the coupled system with a potential that describes the magnetic interaction. To obtain this potential, we approximate the ferromagnetic rings to consist of tangentially oriented dipoles. The total magnetic interaction is thus the integral over the interactions between all pairs of dipoles.
 
-A video link of our original experiments can be found here: https://youtu.be/qKzgtxwLCWc
+"Method" lists our experimental techniques and results to analyze the system. A video link of our original experiments can be found here: https://youtu.be/qKzgtxwLCWc
