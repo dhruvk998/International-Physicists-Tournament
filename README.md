@@ -5,3 +5,5 @@ I worked primarily on two problems:
 
 
 I was part of Team India for IPT'26 and defended our solution for Kinetic Voltmeter.
+
+Find out more about this lovely competition at https://ipt.science/
